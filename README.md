@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="https://github.com/ism-dev-codes/miniguia-estudos-notebooklm/blob/2851620383903ca956063bdc0c7ae13468ea462c/NotebookLM.png"
-    width="600"
+    width="1000"
 />
 </p>
 
