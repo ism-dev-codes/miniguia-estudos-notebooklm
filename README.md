@@ -15,7 +15,7 @@ Para garantir a qualidade do conhecimento gerado pela IA, o NotebookLM foi alime
 2. **Apostila Python e Orientação a Objetos (Caelum/Alura)** - Material didático aberto com foco prático em lógica de programação e fundamentos orientados a objetos. Disponível em: [alura.com.br/apostila-python](https://www.alura.com.br/apostila-python-orientacao-a-objetos)
 3. **Curso de Python do Professor Gustavo Guanabara (Mundo 1 - Curso em Vídeo)** - Material de apoio textual e roteiros práticos amplamente recomendados para iniciantes. Disponível em: [cursoemvideo.com](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 4. **Wiki Python Brasil (Seção de Exercícios e Conceitos)** - Repositório mantido pela comunidade brasileira com explicações práticas e estruturas de lógica. Disponível em: [python.org.br](https://python.org.br/)
-5. **Introdução à Ciência da Computação com Python (USP)** - Notas de aula e guias textuais abertos de um dos principais cursos universitários de introdução à programação do país. Disponível em: [ime.usp.br](https://www.ime.usp.br/~mac2166/pats/index.html)
+5. **Introdução à Programação em Python (UFRGS)** - Notas de aula e material textual de introdução à ciência da computação mantido pela Universidade Federal do Rio Grande do Sul. Disponível em: [ufrgs.br](https://www.ufrgs.br/reamat/ComputacaoCientifica/livro/cc-com-python.html)
 
 ---
 
@@ -37,7 +37,7 @@ Durante a interação com o NotebookLM, o foco foi extrair respostas técnicas, 
 
 ### 📌 Resumo Estruturado dos Fundamentos de Python
 
-* **Filosofia Zen do Python:** Python prioriza a legibilidade do código sobre a complexidade. O famoso *"bonito é melhor que feio"* se traduz na sintaxe limpa e no uso obrigatório de **indentação** para definir blocks de código (substituindo as chaves `{}` ou palavras-chave como `end` de outras linguagens).
+* **Filosofia Zen do Python:** Python prioriza a legibilidade do código sobre a complexidade. O famoso *"bonito é melhor que feio"* se traduz na sintaxe limpa e no uso obrigatório de **indentação** para definir blocos de código (substituindo as chaves `{}` ou palavras-chave como `end` de outras linguagens).
 * **Tipagem Dinâmica e Forte:** Em Python, você não precisa dizer que uma variável é um número ou um texto, a linguagem descobre sozinha em tempo de execução (dinâmica). Porém, ela é forte: o código `“Ano: ” + 2026` quebrará com um erro de tipo (`TypeError`), exigindo a conversão explícita `“Ano: ” + str(2026)`.
 * **Estruturas de Dados Nativas:**
   * **Listas (`[]`):** Mutáveis, ordenadas, aceitam dados de vários tipos.
