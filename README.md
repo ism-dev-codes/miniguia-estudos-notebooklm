@@ -31,7 +31,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [NotebookLM] (https://notebooklm.google.com/)) 
+- [NotebookLM] (https://notebooklm.google.com/) 
 
 
 ## ✨ Como foi feito ?
