@@ -49,7 +49,7 @@ resultado = '%s : %s gramas' % (animal, peso)
 
 * **Lição Aprendida:** Restringir o escopo da IA e pedir explicitamente cenários de erro com soluções práticas enriquece o material de estudo, tornando a documentação madura e útil para consulta posterior.
 
-
+# 🏆 Miniguia de Estudo (Entrega Final)
 ### 📌 Resumo Estruturado dos Fundamentos de Python
 
 * **Natureza da Linguagem:** O Python destaca-se por ser uma linguagem multiparadigma, de software livre, e que adota a filosofia de que "tudo é um objeto". Sua sintaxe é desenhada para favorecer a legibilidade.
