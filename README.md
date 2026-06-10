@@ -45,11 +45,10 @@ peso = 98
 resultado = '%s : %s gramas' % (animal, peso)
 # Retorno: 'Hamster 1 : 98 gramas'
 
+````
+
 * **Lição Aprendida:** Restringir o escopo da IA e pedir explicitamente cenários de erro com soluções práticas enriquece o material de estudo, tornando a documentação madura e útil para consulta posterior.
 
----
-
-## 🏆 Miniguia de Estudo (Entrega Final)
 
 ### 📌 Resumo Estruturado dos Fundamentos de Python
 
@@ -76,7 +75,7 @@ resultado = '%s : %s gramas' % (animal, peso)
 
 ---
 
-## 👨‍💻 Expert
+  ## 👨‍💻 Expert
 
 <p>
     <img 
@@ -105,3 +104,5 @@ resultado = '%s : %s gramas' % (animal, peso)
 </p>
 <br/><br/>
 <p>
+
+
