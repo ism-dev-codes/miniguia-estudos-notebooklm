@@ -13,9 +13,9 @@ Para garantir a qualidade do conhecimento gerado pela IA, o NotebookLM foi alime
 
 1. **Documentação Oficial do Python (Tutorial em PT-BR)** - O guia definitivo e oficial para entender a sintaxe e a filosofia da linguagem. Disponível em: [docs.python.org](https://docs.python.org/pt-br/3/tutorial/index.html)
 2. **Apostila Python e Orientação a Objetos (Caelum/Alura)** - Material didático aberto com foco prático em lógica de programação e fundamentos orientados a objetos. Disponível em: [alura.com.br/apostila-python](https://www.alura.com.br/apostila-python-orientacao-a-objetos)
-3. **Python para Desenvolvedores (Livro Aberto de Luiz Eduardo Borges)** - Uma das maiores referências em comunidade aberta de Python no Brasil, cobrindo do básico ao avançado. Disponível em: [ark4n.wordpress.com (PDF Oficial)](https://ark4n.wordpress.com/wp-content/uploads/2009/05/python_para_desenvolvedores.pdf)
+3. **Curso de Python do Professor Gustavo Guanabara (Mundo 1 - Curso em Vídeo)** - Material de apoio textual e roteiros práticos amplamente recomendados para iniciantes. Disponível em: [cursoemvideo.com](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 4. **Wiki Python Brasil (Seção de Exercícios e Conceitos)** - Repositório mantido pela comunidade brasileira com explicações práticas e estruturas de lógica. Disponível em: [python.org.br](https://python.org.br/)
-5. **Introdução à Ciência da Computação com Python (USP / Coursera)** - Notas de aula e guias textuais abertos de um dos principais cursos universitários de introdução à programação do país. Disponível em: [ime.usp.br](https://www.ime.usp.br/~mac2166/pats/index.html)
+5. **Introdução à Ciência da Computação com Python (USP)** - Notas de aula e guias textuais abertos de um dos principais cursos universitários de introdução à programação do país. Disponível em: [ime.usp.br](https://www.ime.usp.br/~mac2166/pats/index.html)
 
 ---
 
@@ -37,7 +37,7 @@ Durante a interação com o NotebookLM, o foco foi extrair respostas técnicas, 
 
 ### 📌 Resumo Estruturado dos Fundamentos de Python
 
-* **Filosofia Zen do Python:** Python prioriza a legibilidade do código sobre a complexidade. O famoso *"bonito é melhor que feio"* se traduz na sintaxe limpa e no uso obrigatório de **indentação** para definir blocos de código (substituindo as chaves `{}` ou palavras-chave como `end` de outras linguagens).
+* **Filosofia Zen do Python:** Python prioriza a legibilidade do código sobre a complexidade. O famoso *"bonito é melhor que feio"* se traduz na sintaxe limpa e no uso obrigatório de **indentação** para definir blocks de código (substituindo as chaves `{}` ou palavras-chave como `end` de outras linguagens).
 * **Tipagem Dinâmica e Forte:** Em Python, você não precisa dizer que uma variável é um número ou um texto, a linguagem descobre sozinha em tempo de execução (dinâmica). Porém, ela é forte: o código `“Ano: ” + 2026` quebrará com um erro de tipo (`TypeError`), exigindo a conversão explícita `“Ano: ” + str(2026)`.
 * **Estruturas de Dados Nativas:**
   * **Listas (`[]`):** Mutáveis, ordenadas, aceitam dados de vários tipos.
