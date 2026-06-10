@@ -15,7 +15,7 @@ Para garantir a qualidade do conhecimento gerado pela IA, o NotebookLM foi alime
 2. **Apostila Python e Orientação a Objetos (Caelum/Alura)** - Material didático aberto com foco prático em lógica de programação e fundamentos orientados a objetos. Disponível em: [alura.com.br/apostila-python](https://www.alura.com.br/apostila-python-orientacao-a-objetos)
 3. **Curso de Python do Professor Gustavo Guanabara (Mundo 1 - Curso em Vídeo)** - Material de apoio textual e roteiros práticos amplamente recomendados para iniciantes. Disponível em: [cursoemvideo.com](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 4. **Wiki Python Brasil (Seção de Exercícios e Conceitos)** - Repositório mantido pela comunidade brasileira com explicações práticas e estruturas de lógica. Disponível em: [python.org.br](https://python.org.br/)
-5. **Introdução à Programação em Python (UFRGS)** - Notas de aula e material textual de introdução à ciência da computação mantido pela Universidade Federal do Rio Grande do Sul. Disponível em: [ufrgs.br](https://www.ufrgs.br/reamat/ComputacaoCientifica/livro/cc-com-python.html)
+5. **Livro Aberto - Computação Científica com Python (IF-UFRJ)** - Um livro didático completo e gratuito em formato PDF focado no aprendizado dos fundamentos da linguagem. Disponível em: [if.ufrj.br (PDF Oficial)](https://www.if.ufrj.br/~sandra/InfoEnsino/python_flavio07.pdf)
 
 ---
 
