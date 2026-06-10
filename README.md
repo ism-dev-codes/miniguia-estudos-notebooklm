@@ -1,7 +1,7 @@
 # 📓 Miniguia de Estudos: Introdução à Linguagem de Programação Python
 
 ## 📝 Contexto e Objetivos
-Este repositório foi desenvolvido como parte de um desafio prático para a **Refatoração e Aprendizagem Ativa da DIO (Digital Innovation One)**. O objetivo principal é aplicar o conceito de curadoria de conteúdo utilizando o **NotebookLM** da Google para adquirir, organizar e aprofundar conhecimentos sobre os fundamentos da linguagem Python.
+Este repositório foi desenvolvido como parte de um desafio prático para a **Refatoração e Aprendizagem Ativa da DIO (Digital Innovation One)**. O objectivo principal é aplicar o conceito de curadoria de conteúdo utilizando o **NotebookLM** da Google para adquirir, organizar e aprofundar conhecimentos sobre os fundamentos da linguagem Python.
 
 * **Tema Escolhido:** Introdução à Linguagem de Programação Python.
 * **Objetivo de Estudo:** Compreender a sintaxe básica, as estruturas de dados fundamentais (listas, tuplas, dicionários) e as características que tornam o Python uma das linguagens mais populares do mundo (como legibilidade e multiparadigma).
@@ -45,36 +45,7 @@ peso = 98
 resultado = '%s : %s gramas' % (animal, peso)
 # Retorno: 'Hamster 1 : 98 gramas'
 
-````
-
-* **Lição Aprendida:** Restringir o escopo da IA e pedir explicitamente cenários de erro com soluções práticas enriquece o material de estudo, tornando a documentação madura e útil para consulta posterior.
-
-# 🏆 Miniguia de Estudo (Entrega Final)
-### 📌 Resumo Estruturado dos Fundamentos de Python
-
-* **Natureza da Linguagem:** O Python destaca-se por ser uma linguagem multiparadigma, de software livre, e que adota a filosofia de que "tudo é um objeto". Sua sintaxe é desenhada para favorecer a legibilidade.
-* **Mecanismo de Variáveis:** Variáveis em Python funcionam como ponteiros/identificadores vinculados a um espaço na memória. O interpretador gerencia esses vínculos dinamicamente através de dicionários conhecidos como *namespaces*.
-* **Comportamento de Tipos (Dinâmica e Forte):** O desenvolvedor não precisa declarar os tipos previamente (inferência automática de tipos), mas o interpretador aplica regras rígidas de compatibilidade. Operações entre tipos incompatíveis (como somar texto e número) geram um `TypeError`, exigindo tratamento explícito do código.
-
-### 📖 Glossário de Conceitos Aprendidos
-* **Tipagem Dinâmica:** Característica da linguagem em que o tipo do dado é inferido automaticamente pelo interpretador em tempo de execução, sem necessidade de declaração prévia do programador.
-* **Tipagem Forte:** Restrição que impede a realização de operações implícitas entre tipos de dados incompatíveis, garantindo previsibilidade e segurança ao código.
-* **Case-Sensitive:** Propriedade do interpretador que diferencia letras maiúsculas de minúsculas. Em Python, a variável `nome` é completamente distinta de `Nome`.
-* **Espaço de Nomes (Namespaces):** Estruturas internas (semelhantes a dicionários) onde o Python armazena e organiza os nomes das variáveis globais e locais e suas respectivas referências de memória.
-* **Limpeza Automática (Garbage Collector):** Sistema automatizado do interpretador Python que apaga imediatamente um objeto da memória assim que ele deixa de ser referenciado por qualquer variável no contexto atual.
-
-### ⚠️ Cuidados para Iniciantes (Troubleshooting Técnico)
-* **Evite misturar tipos incompatíveis sem conversão:** Operar variáveis de naturezas distintas diretamente (ex: string `'123'` com o inteiro `3`) causará interrupções imediatas na execução do programa.
-* **Utilize conversões explícitas:** Adote boas práticas como o uso de formatadores ou funções nativas de conversão antes de concatenar números em saídas de texto.
-* **Acompanhe o estado da variável:** Como os tipos mudam dinamicamente ao longo do ciclo de vida do programa caso novos valores sejam atribuídos, manter o controle estrito sobre o que a variável armazena previne erros de lógica matemática.
-
-### 🔄 Prompts Reutilizáveis para Revisões Futuras
-* `"Aja como um entrevistador técnico de Python. Crie 3 perguntas com níveis de dificuldade Fácil, Médio e Difícil sobre Estruturas de Dados baseadas exclusivamente nos textos enviados."`
-* `"Crie um roteiro de estudos de 5 dias para revisar funções (def) e escopo de variáveis utilizando apenas os capítulos dos livros anexados."`
-* `"Explique a diferença prática entre Listas e Tuplas usando uma metáfora do mundo real baseada na documentação fornecida."`
-
----
-
+```
   ## 👨‍💻 Expert
 
 <p>
